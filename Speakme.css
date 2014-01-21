@@ -1,0 +1,116 @@
+
+
+
+body {
+height: 980px;
+width: auto;
+background: #f2f5f6; /* Old browsers */
+background: -moz-linear-gradient(top, #f2f5f6 0%, #e3eaed 25%, #c8d7dc 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f5f6), color-stop(25%,#e3eaed), color-stop(100%,#c8d7dc)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #f2f5f6 0%,#e3eaed 25%,#c8d7dc 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #f2f5f6 0%,#e3eaed 25%,#c8d7dc 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #f2f5f6 0%,#e3eaed 25%,#c8d7dc 100%); /* IE10+ */
+background: linear-gradient(to bottom, #f2f5f6 0%,#e3eaed 25%,#c8d7dc 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f5f6', endColorstr='#c8d7dc',GradientType=0 ); /* IE6-9 */;
+}
+
+div#logo {
+	display: block;
+	height: 150px;
+	width: 500px;
+	border-radius: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+
+	text-align: center;
+	font-family: "Arial Rounded MT Bold", Helvetica, sans-serif;
+	opacity: .8;
+	padding-bottom: 30px;
+	font-size: 30px;
+}
+
+#face {
+	color:#38A1D6;
+	
+}
+
+
+
+iframe {
+	display: block;
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+div#mc_embed_signup {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 110px;
+	width: 350px;
+}
+
+
+
+#mc-embedded-subscribe{
+	background:#25A6E1;
+	background:-moz-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#25A6E1),color-stop(100%,#188BC0));
+	background:-webkit-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:-o-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:-ms-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#25A6E1',endColorstr='#188BC0',GradientType=0);
+	padding:8px 13px;
+	color:#fff;
+	font-family:'Helvetica Neue',sans-serif;
+	font-size:17px;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border:1px solid #1A87B9;
+	margin-bottom: 20px;
+
+	
+}
+
+#mce-EMAIL {
+	background-color: #f2f5f6;
+	border-radius: 10px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding: 5px;
+}
+
+.twitter-follow-button {
+	position: relative;
+	display: inline;
+
+
+}
+
+
+label {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 20px;
+	opacity: .8;
+	font-weight: bold;
+	display: block;
+
+}
+
+input {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	padding: 2px;
+	margin-top: 10px;
+	float: center;
+}
+
+#form_mail_signup {
+	text-align: center;
+}
